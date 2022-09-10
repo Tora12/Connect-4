@@ -14,6 +14,7 @@ Command line Connect 4 with AI
 
 ```
 $ python3 connect4.py
+```
 
 ## Helpful Tips
 
